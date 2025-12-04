@@ -2,6 +2,12 @@
 
 This repository documents the systematic mapping study focusing on privacy-preserving mechanisms for Quality of Experience (QoE) in network technologies from 2020-2024. The research analyzed relevant studies addressing the intersection of QoE and privacy preservation.
 
+## Publication
+
+The published version of this survey is available at:
+
+> Garcia, R. D., Ramachandran, S. G., Rothenberg, C. E., Krishnamachari, B., & Ueyama, J. (2025). A survey of privacy-preserving mechanisms on quality of experience in next-generation networks. *Computer Networks*, (111899), 111899. doi:[10.1016/j.comnet.2025.111899](https://doi.org/10.1016/j.comnet.2025.111899)
+
 ## Repository Purpose
 
 The repository serves to:
