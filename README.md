@@ -52,7 +52,7 @@ Research examines:
 ### By Evaluation Method
 - Experiments
 - Simulations
-- Formal Analysis
+- Formal Security Analysis
 - Combined Approaches
 
 ## Data Description

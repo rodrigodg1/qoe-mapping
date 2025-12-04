@@ -35,6 +35,7 @@ OR "Confidentiality" OR "User Data" OR "Privacy-Preserving"
 OR "Privacy-Aware" OR "Identity Protection" OR "User Consent"
 OR "Data Anonymization" OR "Data Leakage" OR "User Trust"
 OR "User Anonymity" OR "Privacy Concerns" )
+AND PUBYEAR > 2019
 ```
 
 
@@ -55,7 +56,6 @@ OR "User Anonymity" OR "Privacy Concerns" )
 ## Exclusion Criteria
 
 *   Studies not addressing both QoE and privacy
-*   Papers focusing solely on Quality of Service (QoS) without QoE considerations
 *   Non-peer-reviewed articles, grey literature
 *   Studies not related to telecommunications or network services
 *   Articles without full-text PDF access
@@ -79,8 +79,9 @@ Extract the following information from each selected study:
 *   Application domain (e.g., mobile networks, IoT, cloud computing)
 *   Network context (e.g., 4G, 5G, 6G)
 *   Contribution type (e.g., method, tool, model, framework)
-*   Evaluation method (e.g., experiment, simulation, case study)
+*   Evaluation method (e.g., experiment, simulation, formal security analysis, case study)
 *   Key findings and conclusions
+*   Limitations
 *   Research gaps and future work suggestions
 
 
@@ -96,7 +97,7 @@ a. Categorize studies based on:
 *   **Application domains:** (e.g., mobile networks, IoT, cloud computing)
 *   **Network contexts:** (e.g., 4G, 5G, 6G)
 *   **Contribution types:** (e.g., method, tool, model, framework)
-*   **Evaluation methods:** (e.g., experiment, simulation, case study)
+*   **Evaluation methods:** (e.g., experiment, simulation, formal security analysis, case study)
 
 b. Analyze the distribution of studies across categories to identify research trends and gaps
 
@@ -147,23 +148,3 @@ b. Analyze the distribution of studies across categories to identify research tr
 *   Identify strengths and weaknesses in current approaches
 *   Discuss implications for practice and future research directions
 
-  
-## Visualization
-
-Create visual representations of the mapping results, such as:
-
-*   Bubble plots showing the distribution of studies across different categories
-*   Heat maps illustrating research intensity in various sub-areas
-*   Trend graphs showing the evolution of research topics over time
-*   Network diagrams illustrating relationships between QoE and privacy concepts
-
-## Reporting
-
-Prepare a comprehensive report including the following:
-
-*   Detailed methodology
-*   Results of the mapping study
-*   Discussion of findings
-*   Identification of research gaps and future directions
-*   Limitations of the mapping study
-*   Implications for practice and policy in telecommunications
